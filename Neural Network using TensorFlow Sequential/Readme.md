@@ -1,7 +1,6 @@
 # MNIST Neural Network with TensorFlow Sequential API
 
-This project demonstrates how to build, train, and evaluate a simple neural network using TensorFlow's Sequential API. The model is trained on the **MNIST dataset**, which consists of handwritten digits (0-9).
-
+This project demonstrates how to build, train, and evaluate a simple neural network using TensorFlow's Sequential API. The model is trained on the **MNIST dataset**, which consists of handwritten digits (0-9). [Watch Tutorial](https://youtu.be/3TLEDkcW-nE)
 ## Features
 - Preprocessing and normalization of MNIST data
 - Building a fully connected neural network using the Sequential API
